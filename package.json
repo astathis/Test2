@@ -1,0 +1,21 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "@meowwolf/node-red-contrib-amqp": "~2.4.1",
+        "@pafum/node-red-node-mongodb": "~0.2.5",
+        "node-red-contrib-flogger": "~1.2.2",
+        "node-red-contrib-git-nodes": "~0.2.2",
+        "node-red-contrib-git-ui": "~0.1.10",
+        "node-red-contrib-google-cloud": "0.0.26",
+        "node-red-contrib-google-docs": "0.0.2",
+        "node-red-contrib-google-sheets": "~1.1.2",
+        "node-red-contrib-pdf": "~0.1.0",
+        "node-red-contrib-sqlstring": "~0.1.1",
+        "node-red-node-email": "~1.18.2",
+        "node-red-node-google": "~0.2.2",
+        "node-red-node-mysql": "~1.0.3"
+    }
+}
